@@ -1,5 +1,14 @@
 ## Provisioning a vagrant machine
 
+This sets up a new machine from scratch to be a complete asterisk based phone server.
+It was a year long project that I embarked upon but ultimately abandoned. I pushed
+it to this github repo and I'm about to fork it to turn it into a ham radio
+SVXlink repeater system. Small change LOL.
+
+
+
+### What to do
+
 cd to folder containing the machine
 
 possibly
